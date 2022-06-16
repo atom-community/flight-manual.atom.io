@@ -192,7 +192,7 @@ If multiple keybindings are matched, Atom determines which keybinding will be ex
 
 Atom loads core Atom keybindings and package keybindings first, and user-defined keybindings last. Since user-defined keybindings are loaded last, you can use your `keymap.cson` file to tweak the keybindings and sort out problems like these. See the [Keymaps in Depth section](/behind-atom/sections/keymaps-in-depth/) for more information.
 
-If you notice that a package's keybindings are taking precedence over core Atom keybindings, it might be a good idea to report the issue on that package's GitHub repository. You can contact atom maintainers on [Atom's github discussions](https://github.com/atom/atom/discussions)
+If you notice that a package's keybindings are taking precedence over core Atom keybindings, it might be a good idea to report the issue on that package's GitHub repository.
 
 #### Check Font Rendering Issues
 
